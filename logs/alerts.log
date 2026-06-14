@@ -1,0 +1,4 @@
+2026-06-14 04:02:32.725149 - Signature scan: CLEAN
+2026-06-14 04:02:32.725219 - Heuristic scan: ['File not found']
+2026-06-14 04:02:32.734934 - Behavior scan: ['Possible reverse shell tool detected', 'Possible reverse shell tool detected', 'Possible reverse shell tool detected']
+2026-06-14 04:02:32.742687 - Network scan: []
